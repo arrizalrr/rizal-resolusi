@@ -1,0 +1,7 @@
+RENCANA KONTEN RIZAL
+- Struktur Data Dasar 
+- PHP FRAMEWORK
+   ^ Laravel 
+- INTERVIEW
+- VLOG
+- Python
